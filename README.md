@@ -3,7 +3,10 @@
 
 Final Project for IDS 706: Data Engineering Systems
 
+## Checkout our website here:
+[CupsAdventure Website](http://cupsadventure.tech)
 
+## Checkout our Streamlit Apllication here:
 Streamlit Page: https://nick-carroll1-hackduke-welcome-page-streamlit-onpq1t.streamlit.app
 
 ## Inspiration
