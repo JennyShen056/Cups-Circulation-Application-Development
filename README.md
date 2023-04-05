@@ -3,11 +3,13 @@
 
 Final Project for IDS 706: Data Engineering Systems
 
-## Checkout our website here:
-[CupsAdventure Website](http://cupsadventure.tech)
+## Cup Adventure Website ([Link](http://cupsadventure.tech/))
+
 
 ## Checkout our Streamlit Apllication here:
 Streamlit Page: https://nick-carroll1-hackduke-welcome-page-streamlit-onpq1t.streamlit.app
+
+## Video Presentation ([Link](https://youtu.be/CQopxFhuxdY))
 
 ## Inspiration
 We are inspired by a cup of hot chocolate. One Saturday afternoon, when we were brainstorming about the project for this hackathon at McDonald's, Jenny ordered a hot chocolate. However, we disposed of the coffee cup after using it, which is not environmentally friendly. In addition, we notice students mainly use plastic or paper cups when dining on the campus. Therefore, we decided to build an app that helps to recycle the cups when we order drinks at the cafe.
