@@ -3,8 +3,8 @@
 
 Final Project for IDS 706: Data Engineering Systems
 
-## Links
-**If you want to skip right to the end, [click here for the video presentation](https://youtu.be/CQopxFhuxdY)**
+## Video Presentation/Website/App Links
+**If you want to skip right to the end, [click here for the video presentation](https://youtu.be/W3WHXi3j364)**
 
 The Cup Adventure Website cab [be found here.](http://cupsadventure.tech/)
 
