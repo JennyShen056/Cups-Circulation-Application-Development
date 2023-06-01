@@ -36,11 +36,9 @@ Activities when you embark on a Cup Adventure:
 <img width="807" alt="Screen Shot 2022-12-16 at 5 11 05 PM" src="https://user-images.githubusercontent.com/89174034/208215447-b485d24e-7adc-4307-8ba0-52bbb7be003b.png">
 
 
-3. 
-build code with pip environment (ensure that streamlit has all the dependencies that we need)
+3. Build code with pip environment (ensure that streamlit has all the dependencies that we need)
 
-4. 
-Frontend: Streamlit
+4. Frontend: Streamlit
 
 
 ### Functions:
