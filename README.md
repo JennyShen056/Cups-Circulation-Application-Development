@@ -82,32 +82,6 @@ Can sign in with the following information:
 <img width="499" alt="Screen Shot 2022-12-16 at 5 25 54 PM" src="https://user-images.githubusercontent.com/89174034/208216467-5506b391-93aa-4b86-b195-295c7afb56e5.png">
 
 
-
-
-________________________Hackathon 
-
-## Checkout our website here:
-[CupsAdventure Website](http://cupsadventure.tech)
-
-
-
-## How we built it
-To introduce people to the idea of using a reusable cup, we use an HTML and CSS webpage, combined with data visualization and insights from the Python library using JavaScript. To engage people with the actual act of using a reusable cup, we create the front end of CupAdventure app, which can be previewed on the link provided.
-
-## Challenges we ran into
-None of us are proficient in front-end programming. So, learning JavaScript, html5 and CSS overnight is a super big challenge for us. We also have no experience in mobile app programming, but we manage to finish creating the front end of our mobile app.
-
-## Accomplishments that we're proud of
-We are making advancements in front-end knowledge, html5, CSS, javascript, we also manage to embed an interactive graph from an important dataset in the website.
-
-## What we learned
-We learned that in making front-end, there are more than one language to combine. We actually learn new languages such as html5, css, and javascript.
-
-## What's next for Cup Adventure
-- Back-end polishes for the app, implementing cloud storage to make sure the app runs 24/7
-- Trial implementation in Fuqua Friday (so many plasticware)
-- West campus dining implementation
-
 ## References
 https://www.earthday.org/fact-sheet-how-much-disposable-plastic-we-use/
 
